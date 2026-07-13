@@ -794,15 +794,15 @@ The oracle marks the ligand bit string by applying a phase inversion to the targ
 
 The diffusion operator is constructed using
 
-\[
-D = 2|s\rangle\langle s| - I
-\]
+$$
+D = 2|s\rangle\langle s| - I$$
+
 
 where
 
-\[
-|s\rangle
-\]
+$$
+|s\rangle$$
+
 
 is the prepared search state.
 
