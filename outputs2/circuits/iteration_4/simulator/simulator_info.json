@@ -1,0 +1,16 @@
+{
+    "backend": "AerSimulator",
+    "depth": 25,
+    "size": 35,
+    "num_qubits": 4,
+    "count_ops": {
+        "u3": 10,
+        "cx": 10,
+        "u2": 4,
+        "measure": 4,
+        "x": 3,
+        "h": 2,
+        "mcx": 1,
+        "unitary": 1
+    }
+}

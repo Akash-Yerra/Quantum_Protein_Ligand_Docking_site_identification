@@ -1,0 +1,11 @@
+{
+    "num_qubits": 6,
+    "depth": 4,
+    "size": 9,
+    "count_ops": {
+        "measure": 6,
+        "State Preparation": 1,
+        "Oracle": 1,
+        "Diffusion": 1
+    }
+}

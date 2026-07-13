@@ -1,0 +1,26 @@
+[
+    {
+        "shift": 4,
+        "probability": 0.4130859375,
+        "counts": 423,
+        "binary_pattern": "1100",
+        "occurrences": [
+            [
+                5,
+                6
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.83,
+                    0.79
+                ],
+                [
+                    1.23,
+                    -1.23
+                ]
+            ]
+        ]
+    }
+]

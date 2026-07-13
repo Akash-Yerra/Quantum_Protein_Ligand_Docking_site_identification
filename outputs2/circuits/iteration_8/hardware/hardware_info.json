@@ -1,0 +1,14 @@
+{
+    "backend": "ibm_fez",
+    "optimization_level": 3,
+    "depth": 162,
+    "size": 210,
+    "num_qubits": 156,
+    "count_ops": {
+        "sx": 89,
+        "rz": 74,
+        "cz": 40,
+        "measure": 4,
+        "x": 3
+    }
+}

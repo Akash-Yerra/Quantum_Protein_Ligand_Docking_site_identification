@@ -1,0 +1,30 @@
+======================================================================
+Matched Candidate 1
+======================================================================
+
+Shift          : 1
+Probability    : 0.889648
+Counts         : 911
+Binary Pattern : 10
+
+Occurrence : (1, 1)
+Interaction Values
+    Site 1 : Hydrophobic=1.77, HydrogenBond=0.42
+
+Occurrence : (3, 3)
+Interaction Values
+    Site 3 : Hydrophobic=2.28, HydrogenBond=0.13
+
+======================================================================
+Matched Candidate 2
+======================================================================
+
+Shift          : 3
+Probability    : 0.507812
+Counts         : 520
+Binary Pattern : 10
+
+Occurrence : (3, 3)
+Interaction Values
+    Site 3 : Hydrophobic=2.28, HydrogenBond=0.13
+

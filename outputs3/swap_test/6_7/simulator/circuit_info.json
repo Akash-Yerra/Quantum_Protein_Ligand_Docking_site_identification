@@ -1,0 +1,14 @@
+{
+    "backend": "simulator",
+    "qubits": 6,
+    "depth": 21,
+    "size": 29,
+    "operations": {
+        "u2": 11,
+        "cx": 10,
+        "u3": 4,
+        "h": 2,
+        "cswap": 1,
+        "measure": 1
+    }
+}

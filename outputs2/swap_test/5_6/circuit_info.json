@@ -1,0 +1,11 @@
+{
+    "qubits": 6,
+    "depth": 4,
+    "size": 6,
+    "operations": {
+        "state_preparation": 2,
+        "h": 2,
+        "cswap": 1,
+        "measure": 1
+    }
+}

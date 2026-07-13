@@ -1,0 +1,270 @@
+======================================================================
+Matched Candidate 1
+======================================================================
+
+Shift          : 16
+Probability    : 1.000000
+Counts         : 1024
+Binary Pattern : 111101
+
+Occurrence : (18, 20)
+Interaction Values
+    Site 18 : Hydrophobic=1.77, HydrogenBond=1.29
+    Site 19 : Hydrophobic=2.28, HydrogenBond=1.13
+    Site 20 : Hydrophobic=1.59, HydrogenBond=1.49
+
+======================================================================
+Matched Candidate 2
+======================================================================
+
+Shift          : 23
+Probability    : 1.000000
+Counts         : 1024
+Binary Pattern : 000101
+
+Occurrence : (22, 24)
+Interaction Values
+    Site 22 : Hydrophobic=1.29, HydrogenBond=-1.01
+    Site 23 : Hydrophobic=1.18, HydrogenBond=1.32
+    Site 24 : Hydrophobic=0.4, HydrogenBond=1.36
+
+======================================================================
+Matched Candidate 3
+======================================================================
+
+Shift          : 24
+Probability    : 1.000000
+Counts         : 1024
+Binary Pattern : 010100
+
+Occurrence : (23, 25)
+Interaction Values
+    Site 23 : Hydrophobic=1.18, HydrogenBond=1.32
+    Site 24 : Hydrophobic=0.4, HydrogenBond=1.36
+    Site 25 : Hydrophobic=1.48, HydrogenBond=-1.13
+
+======================================================================
+Matched Candidate 4
+======================================================================
+
+Shift          : 25
+Probability    : 1.000000
+Counts         : 1024
+Binary Pattern : 010000
+
+Occurrence : (24, 26)
+Interaction Values
+    Site 24 : Hydrophobic=0.4, HydrogenBond=1.36
+    Site 25 : Hydrophobic=1.48, HydrogenBond=-1.13
+    Site 26 : Hydrophobic=1.12, HydrogenBond=-0.34
+
+======================================================================
+Matched Candidate 5
+======================================================================
+
+Shift          : 22
+Probability    : 0.509766
+Counts         : 522
+Binary Pattern : 000001
+
+Occurrence : (21, 23)
+Interaction Values
+    Site 21 : Hydrophobic=0.83, HydrogenBond=-0.79
+    Site 22 : Hydrophobic=1.29, HydrogenBond=-1.01
+    Site 23 : Hydrophobic=1.18, HydrogenBond=1.32
+
+======================================================================
+Matched Candidate 6
+======================================================================
+
+Shift          : 21
+Probability    : 0.501953
+Counts         : 514
+Binary Pattern : 010000
+
+Occurrence : (20, 22)
+Interaction Values
+    Site 20 : Hydrophobic=1.59, HydrogenBond=1.49
+    Site 21 : Hydrophobic=0.83, HydrogenBond=-0.79
+    Site 22 : Hydrophobic=1.29, HydrogenBond=-1.01
+
+======================================================================
+Matched Candidate 7
+======================================================================
+
+Shift          : 17
+Probability    : 0.350586
+Counts         : 359
+Binary Pattern : 100111
+
+Occurrence : (16, 18)
+Interaction Values
+    Site 16 : Hydrophobic=2.4, HydrogenBond=-1.36
+    Site 17 : Hydrophobic=0.98, HydrogenBond=0.13
+    Site 18 : Hydrophobic=1.77, HydrogenBond=1.29
+
+======================================================================
+Matched Candidate 8
+======================================================================
+
+Shift          : 18
+Probability    : 0.333984
+Counts         : 342
+Binary Pattern : 011111
+
+Occurrence : (17, 19)
+Interaction Values
+    Site 17 : Hydrophobic=0.98, HydrogenBond=0.13
+    Site 18 : Hydrophobic=1.77, HydrogenBond=1.29
+    Site 19 : Hydrophobic=2.28, HydrogenBond=1.13
+
+======================================================================
+Matched Candidate 9
+======================================================================
+
+Shift          : 14
+Probability    : 0.259766
+Counts         : 266
+Binary Pattern : 110100
+
+Occurrence : (19, 21)
+Interaction Values
+    Site 19 : Hydrophobic=2.28, HydrogenBond=1.13
+    Site 20 : Hydrophobic=1.59, HydrogenBond=1.49
+    Site 21 : Hydrophobic=0.83, HydrogenBond=-0.79
+
+======================================================================
+Matched Candidate 10
+======================================================================
+
+Shift          : 15
+Probability    : 0.253906
+Counts         : 260
+Binary Pattern : 001010
+
+Occurrence : (14, 16)
+Interaction Values
+    Site 14 : Hydrophobic=1.23, HydrogenBond=-1.23
+    Site 15 : Hydrophobic=2.18, HydrogenBond=-1.32
+    Site 16 : Hydrophobic=2.4, HydrogenBond=-1.36
+
+======================================================================
+Matched Candidate 11
+======================================================================
+
+Shift          : 11
+Probability    : 0.224609
+Counts         : 230
+Binary Pattern : 001100
+
+Occurrence : (10, 12)
+Interaction Values
+    Site 10 : Hydrophobic=0.77, HydrogenBond=-1.29
+    Site 11 : Hydrophobic=2.28, HydrogenBond=1.13
+    Site 12 : Hydrophobic=0.59, HydrogenBond=-1.49
+
+======================================================================
+Matched Candidate 12
+======================================================================
+
+Shift          : 12
+Probability    : 0.201172
+Counts         : 206
+Binary Pattern : 110011
+
+Occurrence : (11, 13)
+Interaction Values
+    Site 11 : Hydrophobic=2.28, HydrogenBond=1.13
+    Site 12 : Hydrophobic=0.59, HydrogenBond=-1.49
+    Site 13 : Hydrophobic=2.83, HydrogenBond=0.79
+
+======================================================================
+Matched Candidate 13
+======================================================================
+
+Shift          : 8
+Probability    : 0.179688
+Counts         : 184
+Binary Pattern : 101111
+
+Occurrence : (7, 9)
+Interaction Values
+    Site 7 : Hydrophobic=2.18, HydrogenBond=-1.32
+    Site 8 : Hydrophobic=2.4, HydrogenBond=1.36
+    Site 9 : Hydrophobic=1.98, HydrogenBond=0.13
+
+======================================================================
+Matched Candidate 14
+======================================================================
+
+Shift          : 8
+Probability    : 0.176758
+Counts         : 181
+Binary Pattern : 110010
+
+Occurrence : (13, 15)
+Interaction Values
+    Site 13 : Hydrophobic=2.83, HydrogenBond=0.79
+    Site 14 : Hydrophobic=1.23, HydrogenBond=-1.23
+    Site 15 : Hydrophobic=2.18, HydrogenBond=-1.32
+
+======================================================================
+Matched Candidate 15
+======================================================================
+
+Shift          : 9
+Probability    : 0.173828
+Counts         : 178
+Binary Pattern : 111100
+
+Occurrence : (8, 10)
+Interaction Values
+    Site 8 : Hydrophobic=2.4, HydrogenBond=1.36
+    Site 9 : Hydrophobic=1.98, HydrogenBond=0.13
+    Site 10 : Hydrophobic=0.77, HydrogenBond=-1.29
+
+======================================================================
+Matched Candidate 16
+======================================================================
+
+Shift          : 3
+Probability    : 0.144531
+Counts         : 148
+Binary Pattern : 100010
+
+Occurrence : (5, 7)
+Interaction Values
+    Site 5 : Hydrophobic=2.83, HydrogenBond=-0.79
+    Site 6 : Hydrophobic=1.23, HydrogenBond=-1.23
+    Site 7 : Hydrophobic=2.18, HydrogenBond=-1.32
+
+======================================================================
+Matched Candidate 17
+======================================================================
+
+Shift          : 2
+Probability    : 0.129883
+Counts         : 133
+Binary Pattern : 001000
+
+Occurrence : (4, 6)
+Interaction Values
+    Site 4 : Hydrophobic=0.59, HydrogenBond=-1.49
+    Site 5 : Hydrophobic=2.83, HydrogenBond=-0.79
+    Site 6 : Hydrophobic=1.23, HydrogenBond=-1.23
+
+======================================================================
+Matched Candidate 18
+======================================================================
+
+Shift          : 3
+Probability    : 0.128906
+Counts         : 132
+Binary Pattern : 001100
+
+Occurrence : (2, 4)
+Interaction Values
+    Site 2 : Hydrophobic=0.77, HydrogenBond=-1.29
+    Site 3 : Hydrophobic=2.28, HydrogenBond=1.13
+    Site 4 : Hydrophobic=0.59, HydrogenBond=-1.49
+

@@ -1,0 +1,506 @@
+[
+    {
+        "shift": 16,
+        "probability": 1.0,
+        "counts": 1024,
+        "binary_pattern": "111101",
+        "occurrences": [
+            [
+                18,
+                20
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    1.77,
+                    1.29
+                ],
+                [
+                    2.28,
+                    1.13
+                ],
+                [
+                    1.59,
+                    1.49
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 23,
+        "probability": 1.0,
+        "counts": 1024,
+        "binary_pattern": "000101",
+        "occurrences": [
+            [
+                22,
+                24
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    1.29,
+                    -1.01
+                ],
+                [
+                    1.18,
+                    1.32
+                ],
+                [
+                    0.4,
+                    1.36
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 24,
+        "probability": 1.0,
+        "counts": 1024,
+        "binary_pattern": "010100",
+        "occurrences": [
+            [
+                23,
+                25
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    1.18,
+                    1.32
+                ],
+                [
+                    0.4,
+                    1.36
+                ],
+                [
+                    1.48,
+                    -1.13
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 25,
+        "probability": 1.0,
+        "counts": 1024,
+        "binary_pattern": "010000",
+        "occurrences": [
+            [
+                24,
+                26
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    0.4,
+                    1.36
+                ],
+                [
+                    1.48,
+                    -1.13
+                ],
+                [
+                    1.12,
+                    -0.34
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 22,
+        "probability": 0.509765625,
+        "counts": 522,
+        "binary_pattern": "000001",
+        "occurrences": [
+            [
+                21,
+                23
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    0.83,
+                    -0.79
+                ],
+                [
+                    1.29,
+                    -1.01
+                ],
+                [
+                    1.18,
+                    1.32
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 21,
+        "probability": 0.501953125,
+        "counts": 514,
+        "binary_pattern": "010000",
+        "occurrences": [
+            [
+                20,
+                22
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    1.59,
+                    1.49
+                ],
+                [
+                    0.83,
+                    -0.79
+                ],
+                [
+                    1.29,
+                    -1.01
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 17,
+        "probability": 0.3505859375,
+        "counts": 359,
+        "binary_pattern": "100111",
+        "occurrences": [
+            [
+                16,
+                18
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.4,
+                    -1.36
+                ],
+                [
+                    0.98,
+                    0.13
+                ],
+                [
+                    1.77,
+                    1.29
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 18,
+        "probability": 0.333984375,
+        "counts": 342,
+        "binary_pattern": "011111",
+        "occurrences": [
+            [
+                17,
+                19
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    0.98,
+                    0.13
+                ],
+                [
+                    1.77,
+                    1.29
+                ],
+                [
+                    2.28,
+                    1.13
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 14,
+        "probability": 0.259765625,
+        "counts": 266,
+        "binary_pattern": "110100",
+        "occurrences": [
+            [
+                19,
+                21
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.28,
+                    1.13
+                ],
+                [
+                    1.59,
+                    1.49
+                ],
+                [
+                    0.83,
+                    -0.79
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 15,
+        "probability": 0.25390625,
+        "counts": 260,
+        "binary_pattern": "001010",
+        "occurrences": [
+            [
+                14,
+                16
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    1.23,
+                    -1.23
+                ],
+                [
+                    2.18,
+                    -1.32
+                ],
+                [
+                    2.4,
+                    -1.36
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 11,
+        "probability": 0.224609375,
+        "counts": 230,
+        "binary_pattern": "001100",
+        "occurrences": [
+            [
+                10,
+                12
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    0.77,
+                    -1.29
+                ],
+                [
+                    2.28,
+                    1.13
+                ],
+                [
+                    0.59,
+                    -1.49
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 12,
+        "probability": 0.201171875,
+        "counts": 206,
+        "binary_pattern": "110011",
+        "occurrences": [
+            [
+                11,
+                13
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.28,
+                    1.13
+                ],
+                [
+                    0.59,
+                    -1.49
+                ],
+                [
+                    2.83,
+                    0.79
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 8,
+        "probability": 0.1796875,
+        "counts": 184,
+        "binary_pattern": "101111",
+        "occurrences": [
+            [
+                7,
+                9
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.18,
+                    -1.32
+                ],
+                [
+                    2.4,
+                    1.36
+                ],
+                [
+                    1.98,
+                    0.13
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 8,
+        "probability": 0.1767578125,
+        "counts": 181,
+        "binary_pattern": "110010",
+        "occurrences": [
+            [
+                13,
+                15
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.83,
+                    0.79
+                ],
+                [
+                    1.23,
+                    -1.23
+                ],
+                [
+                    2.18,
+                    -1.32
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 9,
+        "probability": 0.173828125,
+        "counts": 178,
+        "binary_pattern": "111100",
+        "occurrences": [
+            [
+                8,
+                10
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.4,
+                    1.36
+                ],
+                [
+                    1.98,
+                    0.13
+                ],
+                [
+                    0.77,
+                    -1.29
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 3,
+        "probability": 0.14453125,
+        "counts": 148,
+        "binary_pattern": "100010",
+        "occurrences": [
+            [
+                5,
+                7
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.83,
+                    -0.79
+                ],
+                [
+                    1.23,
+                    -1.23
+                ],
+                [
+                    2.18,
+                    -1.32
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 2,
+        "probability": 0.1298828125,
+        "counts": 133,
+        "binary_pattern": "001000",
+        "occurrences": [
+            [
+                4,
+                6
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    0.59,
+                    -1.49
+                ],
+                [
+                    2.83,
+                    -0.79
+                ],
+                [
+                    1.23,
+                    -1.23
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 3,
+        "probability": 0.12890625,
+        "counts": 132,
+        "binary_pattern": "001100",
+        "occurrences": [
+            [
+                2,
+                4
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    0.77,
+                    -1.29
+                ],
+                [
+                    2.28,
+                    1.13
+                ],
+                [
+                    0.59,
+                    -1.49
+                ]
+            ]
+        ]
+    }
+]

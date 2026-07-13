@@ -1,0 +1,114 @@
+[
+    {
+        "shift": 2,
+        "probability": 1.0,
+        "counts": 1024,
+        "binary_pattern": "100100",
+        "occurrences": [
+            [
+                1,
+                3
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.28,
+                    0.13
+                ],
+                [
+                    0.77,
+                    1.29
+                ],
+                [
+                    1.15,
+                    0.87
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 3,
+        "probability": 1.0,
+        "counts": 1024,
+        "binary_pattern": "010001",
+        "occurrences": [
+            [
+                2,
+                4
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    0.77,
+                    1.29
+                ],
+                [
+                    1.15,
+                    0.87
+                ],
+                [
+                    0.54,
+                    2.1
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 4,
+        "probability": 1.0,
+        "counts": 1024,
+        "binary_pattern": "000110",
+        "occurrences": [
+            [
+                3,
+                5
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    1.15,
+                    0.87
+                ],
+                [
+                    0.54,
+                    2.1
+                ],
+                [
+                    3.1,
+                    0.15
+                ]
+            ]
+        ]
+    },
+    {
+        "shift": 1,
+        "probability": 0.51171875,
+        "counts": 524,
+        "binary_pattern": "101001",
+        "occurrences": [
+            [
+                0,
+                2
+            ]
+        ],
+        "interaction_values": [
+            [
+                [
+                    2.69,
+                    0.31
+                ],
+                [
+                    2.28,
+                    0.13
+                ],
+                [
+                    0.77,
+                    1.29
+                ]
+            ]
+        ]
+    }
+]

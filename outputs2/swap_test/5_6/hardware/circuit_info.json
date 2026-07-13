@@ -1,0 +1,13 @@
+{
+    "backend": "ibm_fez",
+    "qubits": 156,
+    "depth": 68,
+    "size": 112,
+    "operations": {
+        "sx": 47,
+        "rz": 41,
+        "cz": 22,
+        "x": 1,
+        "measure": 1
+    }
+}

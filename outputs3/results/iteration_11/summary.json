@@ -1,0 +1,8 @@
+{
+    "shift": 11,
+    "threshold": 0.2,
+    "patterns": 5,
+    "best_pattern": "001100",
+    "probability": 0.224609375,
+    "counts": 230
+}

@@ -1,0 +1,13 @@
+{
+    "backend": "ibm_marrakesh",
+    "optimization_level": 3,
+    "depth": 18,
+    "size": 26,
+    "num_qubits": 156,
+    "count_ops": {
+        "sx": 12,
+        "rz": 9,
+        "cz": 3,
+        "measure": 2
+    }
+}

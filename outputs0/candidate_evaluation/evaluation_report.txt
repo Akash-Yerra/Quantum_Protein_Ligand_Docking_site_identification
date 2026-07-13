@@ -1,0 +1,59 @@
+================================================================================
+Quantum Protein-Ligand Docking Report
+================================================================================
+
+Ligand Bits : 101001
+Protein Bits: 101001000110
+
+--------------------------------------------------------------------------------
+Candidate 1
+
+Protein Sites : P1 - P3
+Occurrence : (0, 2)
+Matched Bits : 101001
+Bit Position : 0 - 5
+Grover Probability : 1.000000
+P(0) : 0.484375
+Distance : 0.000000
+
+--------------------------------------------------------------------------------
+Candidate 2
+
+Protein Sites : P2 - P4
+Occurrence : (1, 3)
+Matched Bits : 100100
+Bit Position : 2 - 7
+Grover Probability : 1.000000
+P(0) : 0.568359
+Distance : 0.739510
+
+--------------------------------------------------------------------------------
+Candidate 3
+
+Protein Sites : P3 - P5
+Occurrence : (2, 4)
+Matched Bits : 010001
+Bit Position : 4 - 9
+Grover Probability : 1.000000
+P(0) : 0.646484
+Distance : 1.082532
+
+--------------------------------------------------------------------------------
+Candidate 4
+
+Protein Sites : P4 - P6
+Occurrence : (3, 5)
+Matched Bits : 000110
+Bit Position : 6 - 11
+Grover Probability : 0.511719
+P(0) : 0.724609
+Distance : 1.340476
+
+================================================================================
+BEST DOCKING SITE
+================================================================================
+
+Protein Sites : P1 - P3
+Bit Position : 1 - 6
+Matched Bits : 101001
+Distance : 0.000000

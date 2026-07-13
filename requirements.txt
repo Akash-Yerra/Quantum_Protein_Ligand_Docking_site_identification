@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+qiskit[visualization]

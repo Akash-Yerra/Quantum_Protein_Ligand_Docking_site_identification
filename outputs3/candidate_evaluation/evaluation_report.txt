@@ -1,0 +1,213 @@
+================================================================================
+Quantum Protein-Ligand Docking Report
+================================================================================
+
+Ligand Bits : 111101
+Protein Bits: 011100110010001011110011001100101001111101000001010000
+
+--------------------------------------------------------------------------------
+Candidate 1
+
+Protein Sites : P19 - P21
+Occurrence : (18, 20)
+Matched Bits : 111101
+Bit Position : 36 - 41
+Grover Probability : 1.000000
+P(0) : 0.545898
+Distance : 0.605960
+
+--------------------------------------------------------------------------------
+Candidate 2
+
+Protein Sites : P20 - P22
+Occurrence : (19, 21)
+Matched Bits : 110100
+Bit Position : 38 - 43
+Grover Probability : 1.000000
+P(0) : 0.554688
+Distance : 0.661438
+
+--------------------------------------------------------------------------------
+Candidate 3
+
+Protein Sites : P9 - P11
+Occurrence : (8, 10)
+Matched Bits : 111100
+Bit Position : 16 - 21
+Grover Probability : 1.000000
+P(0) : 0.581055
+Distance : 0.805256
+
+--------------------------------------------------------------------------------
+Candidate 4
+
+Protein Sites : P23 - P25
+Occurrence : (22, 24)
+Matched Bits : 000101
+Bit Position : 44 - 49
+Grover Probability : 1.000000
+P(0) : 0.588867
+Distance : 0.843171
+
+--------------------------------------------------------------------------------
+Candidate 5
+
+Protein Sites : P17 - P19
+Occurrence : (16, 18)
+Matched Bits : 100111
+Bit Position : 32 - 37
+Grover Probability : 0.509766
+P(0) : 0.600586
+Distance : 0.897044
+
+--------------------------------------------------------------------------------
+Candidate 6
+
+Protein Sites : P21 - P23
+Occurrence : (20, 22)
+Matched Bits : 010000
+Bit Position : 40 - 45
+Grover Probability : 0.501953
+P(0) : 0.614258
+Distance : 0.956066
+
+--------------------------------------------------------------------------------
+Candidate 7
+
+Protein Sites : P8 - P10
+Occurrence : (7, 9)
+Matched Bits : 101111
+Bit Position : 14 - 19
+Grover Probability : 0.350586
+P(0) : 0.615234
+Distance : 0.960143
+
+--------------------------------------------------------------------------------
+Candidate 8
+
+Protein Sites : P22 - P24
+Occurrence : (21, 23)
+Matched Bits : 000001
+Bit Position : 42 - 47
+Grover Probability : 0.333984
+P(0) : 0.617188
+Distance : 0.968246
+
+--------------------------------------------------------------------------------
+Candidate 9
+
+Protein Sites : P18 - P20
+Occurrence : (17, 19)
+Matched Bits : 011111
+Bit Position : 34 - 39
+Grover Probability : 0.259766
+P(0) : 0.622070
+Distance : 0.988212
+
+--------------------------------------------------------------------------------
+Candidate 10
+
+Protein Sites : P12 - P14
+Occurrence : (11, 13)
+Matched Bits : 110011
+Bit Position : 22 - 27
+Grover Probability : 0.253906
+P(0) : 0.630859
+Distance : 1.023169
+
+--------------------------------------------------------------------------------
+Candidate 11
+
+Protein Sites : P6 - P8
+Occurrence : (5, 7)
+Matched Bits : 100010
+Bit Position : 10 - 15
+Grover Probability : 0.224609
+P(0) : 0.634766
+Distance : 1.038328
+
+--------------------------------------------------------------------------------
+Candidate 12
+
+Protein Sites : P25 - P27
+Occurrence : (24, 26)
+Matched Bits : 010000
+Bit Position : 48 - 53
+Grover Probability : 0.201172
+P(0) : 0.636719
+Distance : 1.045825
+
+--------------------------------------------------------------------------------
+Candidate 13
+
+Protein Sites : P14 - P16
+Occurrence : (13, 15)
+Matched Bits : 110010
+Bit Position : 26 - 31
+Grover Probability : 0.179688
+P(0) : 0.645508
+Distance : 1.078917
+
+--------------------------------------------------------------------------------
+Candidate 14
+
+Protein Sites : P11 - P13
+Occurrence : (10, 12)
+Matched Bits : 001100
+Bit Position : 20 - 25
+Grover Probability : 0.176758
+P(0) : 0.662109
+Distance : 1.138804
+
+--------------------------------------------------------------------------------
+Candidate 15
+
+Protein Sites : P3 - P5
+Occurrence : (2, 4)
+Matched Bits : 001100
+Bit Position : 4 - 9
+Grover Probability : 0.173828
+P(0) : 0.667969
+Distance : 1.159202
+
+--------------------------------------------------------------------------------
+Candidate 16
+
+Protein Sites : P15 - P17
+Occurrence : (14, 16)
+Matched Bits : 001010
+Bit Position : 28 - 33
+Grover Probability : 0.144531
+P(0) : 0.671875
+Distance : 1.172604
+
+--------------------------------------------------------------------------------
+Candidate 17
+
+Protein Sites : P5 - P7
+Occurrence : (4, 6)
+Matched Bits : 001000
+Bit Position : 8 - 13
+Grover Probability : 0.129883
+P(0) : 0.671875
+Distance : 1.172604
+
+--------------------------------------------------------------------------------
+Candidate 18
+
+Protein Sites : P24 - P26
+Occurrence : (23, 25)
+Matched Bits : 010100
+Bit Position : 46 - 51
+Grover Probability : 0.128906
+P(0) : 0.699219
+Distance : 1.262438
+
+================================================================================
+BEST DOCKING SITE
+================================================================================
+
+Protein Sites : P19 - P21
+Bit Position : 37 - 43
+Matched Bits : 1110100
+Distance : 0.605960
