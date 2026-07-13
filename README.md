@@ -472,6 +472,7 @@ The execution automatically performs
 10. Candidate Evaluation
 11. Best Docking Site Identification
 
+By default the project will run in AerSimulator. To run in real hardware, Plase setup your hardware configurations in the main.py file. You can do that in the get_ibm_backend() function which is at line 50 of the main.py file.
 No additional scripts are required.
 
 ---
